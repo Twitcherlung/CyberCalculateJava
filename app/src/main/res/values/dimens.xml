@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hint">15sp</dimen>
+    <dimen name="description">10sp</dimen>
+    <dimen name="difficulty">10sp</dimen>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CyberCalculateJava</string>
+    <string name="choice_text_view">Выберите вид расчёта</string>
+    <string name="check_button">Проверка навыков</string>
+    <string name="check_skills_against_creature_text_view">Действие против другого живого существа</string>
+    <string name="check_skills_against_situations_text_view">Действие против обстоятельств</string>
+    <string name="parameter">параметр</string>
+    <string name="skill">навык</string>
+    <string name="check_modifier">мод.проверки</string>
+    <string name="against">VS</string>
+    <string name="gamer_1">Игрок 1</string>
+    <string name="gamer_2">Игрок 2</string>
+    <string name="cube">1d10</string>
+    <string name="difficulty">СЛ</string>
+    <string name="count">Посчитать</string>
+    //Table values strings
+    <string name="difficulty_value">Таблица сложности</string>
+    <string name="difficulty_level">Уровень сложности</string>
+    <string name="description">Описание</string>
+    <string name="simple">Элементарный</string>
+    <string name="everyday">Бытовой</string>
+    <string name="difficult">Средний</string>
+    <string name="professional">Незаурядный</string>
+    <string name="heroic">Невероятный</string>
+    <string name="legendary">Легендарный</string>
+    //Table values descriptions string
+    <string name="simple_description">Большинство людей делают это не задумываясь.</string>
+    <string name="everyday_description">Большинство справляется без специальной подготовки.</string>
+    <string name="difficult_description">Этому нужно учиться. Того, кто это умеет, считают профессионалом.</string>
+    <string name="professional_description">Это действие требует мастерства, оно по силам лишь лучшим из лучших.</string>
+    <string name="heroic_description">Такого можно добиться лишь пару раз в жизни.</string>
+    <string name="legendary_description">Подвиг, который совершают раз в поколение.</string>
+   
+
+    <string name="simple_level">10</string>
+    <string name="everyday_level">14</string>
+    <string name="difficult_level">18</string>
+    <string name="professional_level">22</string>
+    <string name="heroic_level">25</string>
+    <string name="legendary_level">30</string>
+
+    
+</resources>
